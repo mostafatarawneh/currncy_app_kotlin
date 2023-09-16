@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">currncy Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="select_currency">Select currency</string>
+    <string name="jordan_currency">Jordan Currency</string>
+    <string name="amercian_doller">Amercian doller</string>
+    <string name="amount">Amount</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="converted_amount">Converted Amount</string>
+</resources>
